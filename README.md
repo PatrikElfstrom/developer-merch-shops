@@ -48,6 +48,10 @@ Shops that have their own merch
 
 [github.myshopify.com](https://github.myshopify.com/)
 
+### GitKraken
+
+[gitkraken.com/store](https://www.gitkraken.com/store)
+
 ### Google Merchandise Store
 
 [googlemerchandisestore.com](https://googlemerchandisestore.com/)
