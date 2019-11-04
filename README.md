@@ -8,6 +8,10 @@ Shops that are not dev companies
 
 [dvlpr.io](https://www.dvlpr.io/)
 
+### FreeWear
+
+[freewear.org](https://www.freewear.org/)
+
 ### KVLLY
 
 [shopkvlly.com](https://shopkvlly.com/)
