@@ -44,6 +44,10 @@ Shops that have their own merch
 
 [blog.codepen.io/shop](http://blog.codepen.io/shop/)
 
+### Font Awesome
+
+[fontawesome.com/shirts](https://fontawesome.com/shirts/)
+
 ### GitHub Shop
 
 [github.myshopify.com](https://github.myshopify.com/)
