@@ -28,7 +28,6 @@ Shops that are not dev companies
 
 [pythongear.com](https://www.pythongear.com/)
 
-
 ### TeeJungle
 
 [teejungle.net](https://teejungle.net/)
@@ -56,3 +55,7 @@ Shops that have their own merch
 ### Tower Shop
 
 [stuff.git-tower.com](https://stuff.git-tower.com/)
+
+### webpack
+
+[webpack.threadless.com](https://webpack.threadless.com/)
