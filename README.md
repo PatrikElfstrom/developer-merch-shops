@@ -4,6 +4,12 @@
 
 Shops that are not dev companies
 
+
+
+### Developer T-Shirts
+
+[developertshirts.com](https://developertshirts.com/)
+
 ### DVLPR
 
 [dvlpr.io](https://www.dvlpr.io/)
