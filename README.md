@@ -4,11 +4,17 @@
 
 Shops that are not dev companies
 
-### DVLPR - dvlpr.io
+### DVLPR
 
-### Made4Dev - made4dev.com
+[dvlpr.io](https://www.dvlpr.io/)
 
-### TeeJungle - teejungle.net
+### Made4Dev
+
+[made4dev.com](https://made4dev.com/)
+
+### TeeJungle
+
+[teejungle.net](https://teejungle.net/)
 
 ## Official Shops
 
