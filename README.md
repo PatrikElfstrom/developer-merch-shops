@@ -32,9 +32,17 @@ Shops that are not dev companies
 
 [teejungle.net](https://teejungle.net/)
 
+### Unixstickers
+
+[stickermule.com/unixstickers](https://www.stickermule.com/unixstickers)
+
 ## Official Shops
 
 Shops that have their own merch
+
+### CodePen
+
+[blog.codepen.io/shop](http://blog.codepen.io/shop/)
 
 ### GitHub Shop
 
