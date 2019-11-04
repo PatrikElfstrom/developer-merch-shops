@@ -16,9 +16,18 @@ Shops that are not dev companies
 
 [shopkvlly.com](https://shopkvlly.com/)
 
+### Line of Code
+
+[lineofcode.io](https://lineofcode.io/)
+
 ### Made4Dev
 
 [made4dev.com](https://made4dev.com/)
+
+### Python Gear
+
+[pythongear.com](https://www.pythongear.com/)
+
 
 ### TeeJungle
 
