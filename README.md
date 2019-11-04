@@ -8,6 +8,10 @@ Shops that are not dev companies
 
 [dvlpr.io](https://www.dvlpr.io/)
 
+### KVLLY
+
+[shopkvlly.com](https://shopkvlly.com/)
+
 ### Made4Dev
 
 [made4dev.com](https://made4dev.com/)
