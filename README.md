@@ -14,12 +14,22 @@ Shops that are not dev companies
 
 Shops that have their own merch
 
-### GitHub Shop - github.myshopify.com
+### GitHub Shop
 
-### Google Merchandise Store - googlemerchandisestore.com
+[github.myshopify.com](https://github.myshopify.com/)
 
-### Microsoft Merchandise - microsoftmerchandise.com
+### Google Merchandise Store
 
-### Node.js Community Store - node-js-community-store.myshopify.com
+[googlemerchandisestore.com](https://googlemerchandisestore.com/)
 
-### Tower Shop - stuff.git-tower.com
+### Microsoft Merchandise
+
+[microsoftmerchandise.com](https://microsoftmerchandise.com/)
+
+### Node.js Community Store
+
+[node-js-community-store.myshopify.com](https://node-js-community-store.myshopify.com/)
+
+### Tower Shop
+
+[stuff.git-tower.com](https://stuff.git-tower.com/)
