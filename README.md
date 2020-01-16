@@ -18,6 +18,10 @@ Shops that are not dev companies
 
 [freewear.org](https://www.freewear.org/)
 
+### HTML5 shirt
+
+[html5shirt.com](https://html5shirt.com/)
+
 ### KVLLY
 
 [shopkvlly.com](https://shopkvlly.com/)
