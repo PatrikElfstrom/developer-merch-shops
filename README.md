@@ -5,10 +5,19 @@
 Shops that are not dev companies
 
 
+### DevHero
 
-### Developer T-Shirts
+[devhero.shop](http://devhero.shop/)
 
-[developertshirts.com](https://developertshirts.com/)
+
+### Dev Tees
+
+[devtees.com](http://devtees.com/)
+
+
+### Devsfordevs
+
+[devsfordevs.shop](https://devsfordevs.shop/)
 
 ### DVLPR
 
@@ -21,10 +30,6 @@ Shops that are not dev companies
 ### HTML5 shirt
 
 [html5shirt.com](https://html5shirt.com/)
-
-### KVLLY
-
-[shopkvlly.com](https://shopkvlly.com/)
 
 ### Line of Code
 
@@ -50,13 +55,21 @@ Shops that are not dev companies
 
 Shops that have their own merch
 
+### IBM
+
+[logostore-globalid.us](https://logostore-globalid.us/)
+
+### Forem
+
+[shop.forem.com](https://shop.forem.com)
+
 ### CodePen
 
-[blog.codepen.io/shop](http://blog.codepen.io/shop/)
+[cottonbureau.com/people/codepen-team](https://cottonbureau.com/people/codepen-team)
 
 ### Font Awesome
 
-[fontawesome.com/shirts](https://fontawesome.com/shirts/)
+[https://cottonbureau.com/stores/font-awesome](https://cottonbureau.com/stores/font-awesome)
 
 ### GitHub Shop
 
