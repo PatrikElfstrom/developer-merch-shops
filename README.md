@@ -4,6 +4,8 @@
 
 Shops that are not dev companies
 
+### The Developer Shop
+[developer-shop.com](https://developer-shop.com/)
 
 ### DevHero
 
