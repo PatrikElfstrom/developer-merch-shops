@@ -75,7 +75,7 @@ Shops that have their own merch
 
 ### GitHub Shop
 
-[github.myshopify.com](https://github.myshopify.com/)
+[thegithubshop.com](https://thegithubshop.com/)
 
 ### GitKraken
 
