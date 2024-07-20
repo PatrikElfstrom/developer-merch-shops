@@ -57,6 +57,10 @@ Shops that are not dev companies
 
 Shops that have their own merch
 
+### HTMX
+
+[swag.htmx.org](https://swag.htmx.org/)
+
 ### IBM
 
 [logostore-globalid.us](https://logostore-globalid.us/)
