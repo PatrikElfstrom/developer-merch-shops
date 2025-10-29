@@ -16,11 +16,6 @@ Shops that are not dev companies
 
 [devtees.com](http://devtees.com/)
 
-
-### Devsfordevs
-
-[devsfordevs.shop](https://devsfordevs.shop/)
-
 ### DVLPR
 
 [dvlpr.io](https://www.dvlpr.io/)
@@ -33,10 +28,6 @@ Shops that are not dev companies
 
 [html5shirt.com](https://html5shirt.com/)
 
-### Line of Code
-
-[lineofcode.io](https://lineofcode.io/)
-
 ### Made4Dev
 
 [made4dev.com](https://made4dev.com/)
@@ -44,10 +35,6 @@ Shops that are not dev companies
 ### Python Gear
 
 [pythongear.com](https://www.pythongear.com/)
-
-### TeeJungle
-
-[teejungle.net](https://teejungle.net/)
 
 ### Unixstickers
 
@@ -69,10 +56,6 @@ Shops that have their own merch
 
 [shop.forem.com](https://shop.forem.com)
 
-### CodePen
-
-[cottonbureau.com/people/codepen-team](https://cottonbureau.com/people/codepen-team)
-
 ### Font Awesome
 
 [https://cottonbureau.com/stores/font-awesome](https://cottonbureau.com/stores/font-awesome)
@@ -85,9 +68,9 @@ Shops that have their own merch
 
 [gitkraken.com/store](https://www.gitkraken.com/store)
 
-### Google Merchandise Store
+### Google Official Merch Shop
 
-[googlemerchandisestore.com](https://googlemerchandisestore.com/)
+[https://shop.merch.google/](https://shop.merch.google/)
 
 ### Microsoft Merchandise
 
@@ -96,6 +79,10 @@ Shops that have their own merch
 ### Node.js Community Store
 
 [node-js-community-store.myshopify.com](https://node-js-community-store.myshopify.com/)
+
+### TanStack
+
+[https://cottonbureau.com/people/tanstack](https://cottonbureau.com/people/tanstack)
 
 ### Tower Shop
 
