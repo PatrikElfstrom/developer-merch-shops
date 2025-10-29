@@ -58,7 +58,7 @@ Shops that have their own merch
 
 ### Font Awesome
 
-[https://cottonbureau.com/stores/font-awesome](https://cottonbureau.com/stores/font-awesome)
+[cottonbureau.com/stores/font-awesome](https://cottonbureau.com/stores/font-awesome)
 
 ### GitHub Shop
 
@@ -70,7 +70,7 @@ Shops that have their own merch
 
 ### Google Official Merch Shop
 
-[https://shop.merch.google/](https://shop.merch.google/)
+[shop.merch.google](https://shop.merch.google/)
 
 ### Microsoft Merchandise
 
@@ -82,7 +82,7 @@ Shops that have their own merch
 
 ### TanStack
 
-[https://cottonbureau.com/people/tanstack](https://cottonbureau.com/people/tanstack)
+[cottonbureau.com/people/tanstack](https://cottonbureau.com/people/tanstack)
 
 ### Tower Shop
 
