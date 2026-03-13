@@ -11,7 +11,6 @@ Shops that are not dev companies
 
 [devhero.shop](http://devhero.shop/)
 
-
 ### Dev Tees
 
 [devtees.com](http://devtees.com/)
@@ -43,6 +42,10 @@ Shops that are not dev companies
 ## Official Shops
 
 Shops that have their own merch
+
+### Deno
+
+[merch.deno.com](https://merch.deno.com/)
 
 ### HTMX
 
@@ -79,6 +82,10 @@ Shops that have their own merch
 ### Node.js Community Store
 
 [node-js-community-store.myshopify.com](https://node-js-community-store.myshopify.com/)
+
+### Sentry
+
+[sentry.shop](https://sentry.shop/)
 
 ### TanStack
 
